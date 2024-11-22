@@ -57,6 +57,6 @@ The weather information is displayed in a clean and organized layout:
 ## Setup Instructions
 
 1. ```git clone git@github.com:akshayamaram/weather-now.git```
-2. ```cd weather-app```
+2. ```cd weather-now```
 3. ```npm install```
 4. ```npm run dev```
